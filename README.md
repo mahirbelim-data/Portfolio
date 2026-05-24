@@ -92,8 +92,7 @@ Everything lives in one file — no build steps, no bundler, no config. Open and
  
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/portfolio.git
- 
+git clone https://github.com/mahirbelim-data/portfolio.git 
 # Open in browser
 open index.html
 # — or just drag index.html into any browser
@@ -108,9 +107,9 @@ No install. No `npm install`. No waiting.
 ### Update personal info
 Find the `analyst.json` terminal block in the **About** section and edit the values:
 ```html
-"name":     "Your Name"
-"role":     "Your Role"
-"location": "Your City, Country"
+"name":     "Mohammed Mahir"
+"role":     "Data Analyst"
+"location": "Indore, India"
 ```
  
 ### Update stats
